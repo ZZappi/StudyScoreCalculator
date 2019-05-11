@@ -1,0 +1,50 @@
+FILES:
+  EXTENSION: subject
+
+  DIRECTORY:
+    DATA: data/
+
+STUDY_SCORE_CALC:
+  DATA:
+    GA_NUM: 3
+    GRADE_LETTERS:
+      UG:   UG
+      E:    E
+      E_P:  E+
+      D:    D
+      D_P:  D+
+      C:    C
+      C_P:  C+
+      B:    B
+      B_P:  B+
+      A:    A
+      A_P:  A+
+    SCORE_RANGES:
+      D_P_L: 1.5
+      D_P_M: 2
+      D_P_H: 2.5
+
+      C_L: 2.75
+      C_M: 3
+      C_H: 3.2
+
+      C_P_L: 3.4
+      C_P_M: 3.5
+      C_P_H: 3.6
+
+      B_L: 3.8
+      B_M: 4
+      B_H: 4.25
+
+      B_P_L: 4.5
+      B_P_M: 4.75
+      B_P_H: 5
+
+      A_L: 5.5
+      A_M: 6
+      A_H: 6.5
+
+      A_P_L: 7
+      A_P_M: 8
+      A_P_H: 9
+      A_P_VH: 10

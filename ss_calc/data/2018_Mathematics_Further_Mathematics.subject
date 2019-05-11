@@ -1,0 +1,71 @@
+INFO:
+  NAME:           Mathematics - Further Mathematics
+  NAME_OBJ:       mathematics_further_mathematics
+  YEAR:           2018
+DATA:
+  GA1:
+    NAME:         GA1
+    TYPE:         COURSEWORK 3/4
+    WEIGHT:       0.34
+    TOTAL_MARKS:  100
+    STATS:
+      MEAN:       65.3
+      STD_DEV:    20.1
+      MEDIAN:     B
+      N:          31909
+    GRADE_RANGE:
+      UG:         0-9
+      E:          10-12
+      E_P:        13-20
+      D:          21-37
+      D_P:        38-47
+      C:          48-55
+      C_P:        56-63
+      B:          64-73
+      B_P:        74-82
+      A:          83-91
+      A_P:        92-100
+  GA2:
+    NAME:         GA2
+    TYPE:         EXAM 1
+    WEIGHT:       0.33
+    TOTAL_MARKS:  80
+    STATS:
+      MEAN:       47.6
+      STD_DEV:    16.0
+      MEDIAN:     C_P
+      N:          29972
+    GRADE_RANGE:
+      UG:         0-7
+      E:          8-12
+      E_P:        13-20
+      D:          21-27
+      D_P:        28-33
+      C:          34-39
+      C_P:        40-47
+      B:          48-55
+      B_P:        56-63
+      A:          64-71
+      A_P:        72-80
+  GA3:
+    NAME:         GA3
+    TYPE:         EXAM 2
+    WEIGHT:       0.33
+    TOTAL_MARKS:  120
+    STATS:
+      MEAN:       72.7
+      STD_DEV:    24.7
+      MEDIAN:     C_P
+      N:          29909
+    GRADE_RANGE:
+      UG:         0-11
+      E:          12-24
+      E_P:        25-36
+      D:          37-45
+      D_P:        46-55
+      C:          56-65
+      C_P:        66-76
+      B:          77-87
+      B_P:        88-97
+      A:          98-107
+      A_P:        108-120

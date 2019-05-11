@@ -1,0 +1,71 @@
+INFO:
+  NAME:           Language - Japanese Second Language
+  NAME_OBJ:       language_japanese_second_language
+  YEAR:           2018
+DATA:
+  GA1:
+    NAME:         GA1
+    TYPE:         COURSEWORK 3
+    WEIGHT:       0.25
+    TOTAL_MARKS:  50
+    STATS:
+      MEAN:       38.2
+      STD_DEV:    6.7
+      MEDIAN:     B_P
+      N:          1139
+    GRADE_RANGE:
+      UG:         0-4
+      E:          5-9
+      E_P:        10-14
+      D:          15-19
+      D_P:        20-24
+      C:          25-29
+      C_P:        30-32
+      B:          33-36
+      B_P:        37-40
+      A:          41-45
+      A_P:        46-50
+  GA2:
+    NAME:         GA2
+    TYPE:         COURSEWORK 4
+    WEIGHT:       0.25
+    TOTAL_MARKS:  50
+    STATS:
+      MEAN:       38.1
+      STD_DEV:    7.7
+      MEDIAN:     B_P
+      N:          1124
+    GRADE_RANGE:
+      UG:         0-4
+      E:          5-6
+      E_P:        7-8
+      D:          9-12
+      D_P:        13-22
+      C:          23-27
+      C_P:        28-31
+      B:          32-36
+      B_P:        37-41
+      A:          42-47
+      A_P:        48-50
+  GA3:
+    NAME:         GA3
+    TYPE:         ORAL & WRITTEN EXAM
+    WEIGHT:       0.50
+    TOTAL_MARKS:  400
+    STATS:
+      MEAN:       223.7
+      STD_DEV:    85.2
+      MEDIAN:     B_P
+      N:          1122
+    GRADE_RANGE:
+      UG:         0-35
+      E:          36-55
+      E_P:        56-64
+      D:          65-82
+      D_P:        83-100
+      C:          101-128
+      C_P:        129-160
+      B:          161-201
+      B_P:        202-263
+      A:          264-336
+      A_P:        337-400

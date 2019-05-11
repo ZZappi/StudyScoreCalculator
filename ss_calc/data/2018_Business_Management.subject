@@ -1,0 +1,71 @@
+INFO:
+  NAME:           Business Management
+  NAME_OBJ:       business_management
+  YEAR:           2018
+DATA:
+  GA1:
+    NAME:         GA1
+    TYPE:         COURSEWORK 3
+    WEIGHT:       0.25
+    TOTAL_MARKS:  100
+    STATS:
+      MEAN:       64
+      STD_DEV:    20.2
+      MEDIAN:     C_P
+      N:          13510
+    GRADE_RANGE:
+      UG:         0-9
+      E:          10-14
+      E_P:        15-26
+      D:          27-36
+      D_P:        37-46
+      C:          47-56
+      C_P:        57-66
+      B:          67-74
+      B_P:        75-81
+      A:          82-89
+      A_P:        90-100
+  GA2:
+    NAME:         GA2
+    TYPE:         COURSEWORK 4
+    WEIGHT:       0.25
+    TOTAL_MARKS:  100
+    STATS:
+      MEAN:       67.9
+      STD_DEV:    19.3
+      MEDIAN:     B
+      N:          12660
+    GRADE_RANGE:
+      UG:         0-9
+      E:          10-19
+      E_P:        20-29
+      D:          30-39
+      D_P:        40-47
+      C:          48-56
+      C_P:        57-65
+      B:          66-74
+      B_P:        75-82
+      A:          83-91
+      A_P:        92-100
+  GA3:
+    NAME:         GA3
+    TYPE:         EXAM
+    WEIGHT:       0.50
+    TOTAL_MARKS:  150
+    STATS:
+      MEAN:       68.9
+      STD_DEV:    29.4
+      MEDIAN:     C_P
+      N:          12439
+    GRADE_RANGE:
+      UG:         0-9
+      E:          10-16
+      E_P:        17-25
+      D:          26-35
+      D_P:        36-48
+      C:          49-62
+      C_P:        63-75
+      B:          76-87
+      B_P:        88-97
+      A:          98-108
+      A_P:        109-150
